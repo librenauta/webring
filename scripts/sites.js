@@ -899,6 +899,15 @@ const sites = [
     title: 'Mental Nodes',
     type: 'hybrid',
     url: 'https://www.mentalnodes.com'
+  },
+  
+    {
+    author: 'librenauta',
+    contact: 'librenauta@riseup.net',
+    langs: ['es'],
+    title: 'copiona.com',
+    type: 'blog, hybrid',
+    url: 'https://copiona.com'
   }
 ]
 
